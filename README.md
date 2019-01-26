@@ -20,7 +20,9 @@ Or install it yourself as:
 
 ## Usage
 
-TODO: Write usage instructions here
+```ruby
+RohitMozaViewTool::Renderer.copyright 'Rohit Moza', 'All rights reserved'
+```
 
 ## Development
 
